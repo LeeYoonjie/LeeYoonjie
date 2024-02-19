@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm LeeYoonjie!
+
+
+# 📖STACKS
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853.svg?&style=for-the-badge&logo=Andriod&logoColor=white)
+![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
 
 <!--
 **LeeYoonjie/LeeYoonjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
